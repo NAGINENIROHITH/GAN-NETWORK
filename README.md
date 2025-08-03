@@ -6,7 +6,9 @@ This project explores powerful generative models—GANs (Generative Adversarial 
 # 📜 Project Files
 File Name	Description
 GAN.ipynb:- 	Implementation of a basic GAN architecture
+
 Variational AE.ipynb:- 	Variational Autoencoder for image reconstruction
+
 generative_models.ipynb:-	Consolidated models and results
 
 # ⚙️ Program Overview
@@ -60,3 +62,4 @@ IPython
 GAN successfully generates synthetic digit-like images.
 
 VAE can reconstruct input images and perform smooth latent sampling.
+
